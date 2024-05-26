@@ -4,6 +4,10 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-18-vc-simulator/assets/197597/d5688889-5085-4706-857c-4969fb3f94e7">
 
+### Winners:
+
+There were no participants this week.
+
 ### Prizes:
 * Winner: $80
 * 2nd: $60
